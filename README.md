@@ -1,11 +1,1 @@
-# Claude Skills
-
-Personal skill library for Claude Desktop / Cowork.
-
-## Skills
-| Skill | Description |
-|-------|-------------|
-| apa-writer | Generates APA 7th edition .docx documents from any source |
-
-## Installation
-Copy the `.skill` file to your Claude skills folder or use the Save Skill button in Claude.
+Generates complete academic documents in APA 7th edition format as downloadable .docx files. Use this skill whenever the user wants to write an academic, research, or student paper with APA format: student papers, scientific articles (IMRD), or theses/degree projects. Always activate when the user mentions "APA format", "APA style", "APA document", "academic research", "university assignment", "thesis", "scientific article", "research paper", or when they provide a research topic and ask to structure it formally. Supports Spanish, English, and Brazilian Portuguese language adaptations. The skill first asks a brief set of questions, then researches via web/documents, and finally generates the .docx with full correct APA formatting.
